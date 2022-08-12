@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/511295/screenshots/2629099/octocat-wave-dribbble.gif" align="center" style="width: 100%" />
+Hey! 👋🏻 Welcome to M=my GitHub
 </div>  
   
 
