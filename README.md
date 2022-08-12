@@ -1,5 +1,5 @@
-<div align="center">
-Hey! 👋🏻 Welcome to M=my GitHub
+<div align="center" >
+<h2>Hey! 👋🏻 Welcome to my GitHub</h2>
 </div>  
   
 
